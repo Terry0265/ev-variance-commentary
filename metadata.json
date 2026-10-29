@@ -1,0 +1,6 @@
+{
+  "name": "Earned Value Variance Commentary Generator",
+  "description": "Owner-side project controls tool that converts weekly earned value WBS metrics into executive one-page variance commentary with strict validation and CAD currency analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
